@@ -11,4 +11,4 @@ bookdown::pdf_book:
   citation_package: natbib
   keep_tex: yes
 bookdown::epub_book: default
-book_filename: "treinamentocomp_teste"
+book_filename: "treinamentocomp"
